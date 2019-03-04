@@ -1,2 +1,4 @@
-# Test-PA
-It's a repository just for test.
+# 알고리즘 프로그래밍 과제 test
+
+이름: 이소연
+학번: 201712048
